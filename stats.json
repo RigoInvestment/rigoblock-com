@@ -9,8 +9,8 @@
       "path---extensions-twig-configuration-8d4c9d70e53c58499f0c.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-d7baa02eb94aca133e75.js",
-      "component---src-pages-index-js-d7baa02eb94aca133e75.js.map"
+      "component---src-pages-index-js-2c57f6fca7f94c3ddcbe.js",
+      "component---src-pages-index-js-2c57f6fca7f94c3ddcbe.js.map"
     ],
     "component---src-pages-legal-js": [
       "component---src-pages-legal-js-1682055c3017c30023b2.js",
@@ -85,12 +85,12 @@
       "path---extensions-drupal-cli-30d17090359d7990c34d.js.map"
     ],
     "component---src-pages-404-js": [
-      "component---src-pages-404-js-54210987d094e32e5286.js",
-      "component---src-pages-404-js-54210987d094e32e5286.js.map"
+      "component---src-pages-404-js-df7914d2d996b93001f4.js",
+      "component---src-pages-404-js-df7914d2d996b93001f4.js.map"
     ],
     "commons": [
-      "commons-7893d57a6d23f16232b7.js",
-      "commons-7893d57a6d23f16232b7.js.map"
+      "commons-e74942c8dd73789a4be5.js",
+      "commons-e74942c8dd73789a4be5.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -109,8 +109,8 @@
       "app-5b70c9fbda92731bcc4b.js.map"
     ],
     "component---src-templates-docs-js": [
-      "component---src-templates-docs-js-417b374eab394b5a2a7e.js",
-      "component---src-templates-docs-js-417b374eab394b5a2a7e.js.map"
+      "component---src-templates-docs-js-519c76eceb3bc2dfefa9.js",
+      "component---src-templates-docs-js-519c76eceb3bc2dfefa9.js.map"
     ],
     "path---extensions-drupal": [
       "path---extensions-drupal-23bbfb620679166c5c10.js",
@@ -121,8 +121,8 @@
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-about-js": [
-      "component---src-pages-about-js-cafddbd07c6eddc2d801.js",
-      "component---src-pages-about-js-cafddbd07c6eddc2d801.js.map"
+      "component---src-pages-about-js-cca0623ec0e2270964ce.js",
+      "component---src-pages-about-js-cca0623ec0e2270964ce.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",

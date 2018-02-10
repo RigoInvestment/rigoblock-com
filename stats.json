@@ -1,16 +1,16 @@
 {
   "assetsByChunkName": {
     "path---extensions-drupal-components": [
-      "path---extensions-drupal-components-6762ddf159abd01c1629.js",
-      "path---extensions-drupal-components-6762ddf159abd01c1629.js.map"
+      "path---extensions-drupal-components-4101dcd1bceb18bfa54a.js",
+      "path---extensions-drupal-components-4101dcd1bceb18bfa54a.js.map"
     ],
     "path---extensions-twig-configuration": [
       "path---extensions-twig-configuration-8d4c9d70e53c58499f0c.js",
       "path---extensions-twig-configuration-8d4c9d70e53c58499f0c.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-2c57f6fca7f94c3ddcbe.js",
-      "component---src-pages-index-js-2c57f6fca7f94c3ddcbe.js.map"
+      "component---src-pages-index-js-013045c4d53bf21f2fec.js",
+      "component---src-pages-index-js-013045c4d53bf21f2fec.js.map"
     ],
     "component---src-pages-legal-js": [
       "component---src-pages-legal-js-1682055c3017c30023b2.js",
@@ -37,8 +37,8 @@
       "path---extensions-twig-a9c0536eb8e7afc63d27.js.map"
     ],
     "path---extensions-drupal-support": [
-      "path---extensions-drupal-support-bb1711b9b703e0c1ba9c.js",
-      "path---extensions-drupal-support-bb1711b9b703e0c1ba9c.js.map"
+      "path---extensions-drupal-support-8f99f8d323c2ee0f31fe.js",
+      "path---extensions-drupal-support-8f99f8d323c2ee0f31fe.js.map"
     ],
     "path---extensions-twig-components": [
       "path---extensions-twig-components-9168118f86bc30aed809.js",
@@ -57,8 +57,8 @@
       "path---extensions-html-cli-adf0bd761eff18845dd4.js.map"
     ],
     "path---extensions-drupal-expressions": [
-      "path---extensions-drupal-expressions-b94a45a6b36de614c6f3.js",
-      "path---extensions-drupal-expressions-b94a45a6b36de614c6f3.js.map"
+      "path---extensions-drupal-expressions-d3f02972b526e30ce18e.js",
+      "path---extensions-drupal-expressions-d3f02972b526e30ce18e.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -77,12 +77,12 @@
       "path---extensions-html-support-9619fcf14dd20b4c224e.js.map"
     ],
     "path---extensions-drupal-configuration": [
-      "path---extensions-drupal-configuration-782364ae326e3659bc5f.js",
-      "path---extensions-drupal-configuration-782364ae326e3659bc5f.js.map"
+      "path---extensions-drupal-configuration-4c12cdb3ccb4004f1e6a.js",
+      "path---extensions-drupal-configuration-4c12cdb3ccb4004f1e6a.js.map"
     ],
     "path---extensions-drupal-cli": [
-      "path---extensions-drupal-cli-30d17090359d7990c34d.js",
-      "path---extensions-drupal-cli-30d17090359d7990c34d.js.map"
+      "path---extensions-drupal-cli-9a686fc96b2015fcfd62.js",
+      "path---extensions-drupal-cli-9a686fc96b2015fcfd62.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-df7914d2d996b93001f4.js",
@@ -113,16 +113,16 @@
       "component---src-templates-docs-js-519c76eceb3bc2dfefa9.js.map"
     ],
     "path---extensions-drupal": [
-      "path---extensions-drupal-23bbfb620679166c5c10.js",
-      "path---extensions-drupal-23bbfb620679166c5c10.js.map"
+      "path---extensions-drupal-50f934e56d8764194aa1.js",
+      "path---extensions-drupal-50f934e56d8764194aa1.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-about-js": [
-      "component---src-pages-about-js-cca0623ec0e2270964ce.js",
-      "component---src-pages-about-js-cca0623ec0e2270964ce.js.map"
+      "component---src-pages-about-js-a4fdcadd39e54bb2a063.js",
+      "component---src-pages-about-js-a4fdcadd39e54bb2a063.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
